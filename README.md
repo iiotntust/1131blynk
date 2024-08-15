@@ -10,3 +10,4 @@ https://www.wemos.cc/en/latest/d1/d1_mini.html
 https://www.peacefair.cn/product/772.html
 ## DHT-11 (Humi/Temp sensor)
 https://github.com/dhrubasaha08/DHT11
+## Connected
