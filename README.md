@@ -7,5 +7,5 @@ Support hardware:https://docs.blynk.io/en/getting-started/supported-boards
 https://www.wemos.cc/en/latest/d1/d1_mini.html
 ## Powermeter
 https://www.peacefair.cn/product/772.html
-## DHT-11 (Humi/Temp sensro)
+## DHT-11 (Humi/Temp sensor)
 https://github.com/dhrubasaha08/DHT11
