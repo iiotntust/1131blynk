@@ -1,2 +1,10 @@
-# 1121powermeter
-link powermeter to the blynk.io, iot platform.  
+# 1121powermeter (Handson#2)
+USE D1 mini board to get the powermeter to the blynk.io (iot platform).
+## Blynk QuickStart  
+https://docs.blynk.io/en/getting-started/what-do-i-need-to-blynk
+## Device D1 mini
+https://www.wemos.cc/en/latest/d1/d1_mini.html
+## Powermeter
+https://www.peacefair.cn/product/772.html
+## DHT-11 (Humi/Temp sensro)
+https://github.com/dhrubasaha08/DHT11
