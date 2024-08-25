@@ -1,5 +1,5 @@
 # 1121powermeter (Handson#2)
-USE D1 mini board to get the powermeter to the blynk.io (iot platform).
+In this exercise, students learn how to use IoT platforms to build an IoT project. 
 ## Blynk QuickStart  
 - Getting start: https://docs.blynk.io/en/getting-started/what-do-i-need-to-blynk
 - Support hardware:https://docs.blynk.io/en/getting-started/supported-boards
