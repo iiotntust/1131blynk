@@ -37,6 +37,8 @@ X. Here is the wiring diagram:
 # Port setting
 ### Flash / Speed / Port
 ![image](https://user-images.githubusercontent.com/90613715/136137824-dea2a259-f6c4-4555-96f9-12e4deabbd01.png)
+# Confirmation
+![Confirmation](https://user-images.githubusercontent.com/90613715/136138097-7c533699-a672-43c7-9111-8aed1d91c32d.png)
 ## Powermeter
 https://www.peacefair.cn/product/772.html
 ## Reference
