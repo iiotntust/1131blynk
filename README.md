@@ -15,7 +15,16 @@ https://github.com/dhrubasaha08/DHT11
 ![image](https://github.com/iiotntust/1131blynk/blob/f482b2e8d83cc8fce1db40308162bd033a11e1da/picture/arduino.png)  
 X. Here is the wiring diagram:  
 ![image](https://github.com/iiotntust/1131blynk/blob/98180465e9f3c2ae88036234b62245af93616a76/picture/D1_mini_blynk.png)
-
+# Adding D1 board
+### Preferences
+![image](https://user-images.githubusercontent.com/90613715/136137227-869b415b-4267-47e0-82eb-20b4f56cd149.png)
+### • Create direction (folder)
+### • Additional Boards Manager URLs:
+![Adding D1 board](https://user-images.githubusercontent.com/90613715/136137356-2b111d4f-9d0a-40d4-93f7-a4b5822519b5.png)
+#### http://arduino.esp8266.com/stable/package_esp8266com_index.json
+# Include Library
+### ADD-libraries (given in class)
+### Blynk_Release_v0.4.4 (subject to revise)
 ## Powermeter
 https://www.peacefair.cn/product/772.html
 ## Reference
