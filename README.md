@@ -25,6 +25,18 @@ X. Here is the wiring diagram:
 # Include Library
 ### ADD-libraries (given in class)
 ### Blynk_Release_v0.4.4 (subject to revise)
+# Board Management
+### Select WEMOS D1 D2 & Mini
+![image](https://user-images.githubusercontent.com/90613715/136137703-b16dc503-77f5-4ca5-9b64-8c1aa63df06a.png)
+# Select version
+![image](https://user-images.githubusercontent.com/90613715/136137734-69b77d4d-990a-4e4e-aa4c-538c84cff0f5.png)
+# Downloading
+![image](https://user-images.githubusercontent.com/90613715/136137757-3d42dad3-74df-4d64-8111-6f09dc399356.png)
+# Board setting
+![image](https://user-images.githubusercontent.com/90613715/136137786-1b7dcb8d-c9e7-4dae-870f-c0717c141fb5.png)
+# Port setting
+### Flash / Speed / Port
+![image](https://user-images.githubusercontent.com/90613715/136137824-dea2a259-f6c4-4555-96f9-12e4deabbd01.png)
 ## Powermeter
 https://www.peacefair.cn/product/772.html
 ## Reference
