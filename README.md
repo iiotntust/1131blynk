@@ -12,8 +12,10 @@ https://github.com/dhrubasaha08/DHT11
 ### Get start
 1. Setting the environment:
 - Download Arduino: https://www.arduino.cc/en/software
-![image](https://github.com/iiotntust/1131blynk/blob/f482b2e8d83cc8fce1db40308162bd033a11e1da/picture/arduino.png)  
-X. Here is the wiring diagram:  
+![image](https://github.com/iiotntust/1131blynk/blob/f482b2e8d83cc8fce1db40308162bd033a11e1da/picture/arduino.png)
+> [!CAUTION]
+> Don't forget download CH340 driver  
+Here is the wiring diagram:  
 ![image](https://github.com/iiotntust/1131blynk/blob/98180465e9f3c2ae88036234b62245af93616a76/picture/D1_mini_blynk.png)
 # Adding D1 board
 ### Preferences
@@ -79,6 +81,7 @@ Hardware choose ESP8266 and connection type is WiFi.
 >![image](picture/3.png)  
 Blynk setting finish at here.
 ## Arduino code
+- Download the code from [HERE](blynk_DHT11.ino)
 # Result
 ![image](picture/biynk+dht11.png)
 ## Powermeter
