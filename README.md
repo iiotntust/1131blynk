@@ -15,6 +15,7 @@ https://github.com/dhrubasaha08/DHT11
 ![image](https://github.com/iiotntust/1131blynk/blob/f482b2e8d83cc8fce1db40308162bd033a11e1da/picture/arduino.png)
 > [!CAUTION]
 > Don't forget download CH340 driver  
+
 Here is the wiring diagram:  
 ![image](https://github.com/iiotntust/1131blynk/blob/98180465e9f3c2ae88036234b62245af93616a76/picture/D1_mini_blynk.png)
 # Adding D1 board
@@ -60,7 +61,8 @@ Hardware choose ESP8266 and connection type is WiFi.
 >[!NOTE]
 > Because humidity is expressed as a percentage.
 > So the range should be 0 to 100.
-- Like this.
+
+Like this.
 ![image](picture/11.png)  
 ![image](picture/10.png)  
 #### Go to Web dashboard.
@@ -79,6 +81,7 @@ Hardware choose ESP8266 and connection type is WiFi.
 > I suggest you copy first.(You also can find token in Developer tools)
 > ![image](picture/3.5.png)  
 > ![image](picture/3.png)  
+
 Blynk setting finish at here.
 ## Arduino code
 - Download the code from [HERE](blynk_DHT11.ino)
