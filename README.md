@@ -46,12 +46,12 @@ Here is the wiring diagram:
 ## Blynk
 - Go to blynk website and sign up.
 ### Create template
-- Add new template.
+#### Add new template.
 ![image](picture/8.png)  
 - Enter the template's name.
 Hardware choose ESP8266 and connection type is WiFi.
 ![image](picture/9.png)  
-- Go to datastreams
+#### Go to datastreams
 - Add new datastream and choose virtual pin
 ![image](picture/5.png) 
 - Name can be HUMIDITY and TEMPERATURE, each name has it own PIN(for example is V5 and V6)
@@ -63,22 +63,22 @@ Hardware choose ESP8266 and connection type is WiFi.
 - Like this.
 ![image](picture/11.png)  
 ![image](picture/10.png)  
-- Go to Web dashboard.
+#### Go to Web dashboard.
 - Drag two label to your dashboard.
 ![image](picture/2.png)  
 - Click label's setting and change its name.
 ![image](picture/6.png) 
 - Choose the datastream you created and save.
 ![image](picture/7.png)  
-### Create device
+#### Create device
 - Go to device
 - Add new device from template
 ![image](picture/8.png)  
->[!NOTE]
+> [!NOTE]
 > At here, you can see your own token, you need this token and put in arduino D1.
 > I suggest you copy first.(You also can find token in Developer tools)
->![image](picture/3.5.png)  
->![image](picture/3.png)  
+> ![image](picture/3.5.png)  
+> ![image](picture/3.png)  
 Blynk setting finish at here.
 ## Arduino code
 - Download the code from [HERE](blynk_DHT11.ino)
