@@ -45,36 +45,38 @@ X. Here is the wiring diagram:
 - Go to blynk website and sign up.
 ### Create template
 - Add new template.
-![image]()  
+![image](picture/8.png)  
 - Enter the template's name.
 Hardware choose ESP8266 and connection type is WiFi.
-![image]()
+![image](picture/9.png)  
 - Go to datastreams
 - Add new datastream and choose virtual pin
+![image](picture/5.png) 
 - Name can be HUMIDITY and TEMPERATURE, each name has it own PIN(for example is V5 and V6)
 - Type is interger.
 - Unit you can use percentage and degrees.
->[!NOTE]NOTE
+>[!NOTE]
 > Because humidity is expressed as a percentage.
 > So the range should be 0 to 100.
 - Like this.
-![image]()  
-![image]()  
+![image](picture/11.png)  
+![image](picture/10.png)  
 - Go to Web dashboard.
-- Grag two label to your dashboard.
-![image]()  
+- Drag two label to your dashboard.
+![image](picture/2.png)  
 - Click label's setting and change its name.
-- ![image]()  
+![image](picture/6.png) 
 - Choose the datastream you created and save.
-- ![image]()
+![image](picture/7.png)  
 ### Create device
 - Go to device
 - Add new device from template
-![image]()
->[!NOTE]NOTE
+![image](picture/8.png)  
+>[!NOTE]
 > At here, you can see your own token, you need this token and put in arduino D1.
 > I suggest you copy first.(You also can find token in Developer tools)
->![image]()
+>![image](picture/3.5.png)  
+>![image](picture/3.png)  
 Blynk setting finish at here.
 ## Arduino code
 # Result
