@@ -84,11 +84,11 @@ Like this.
 
 Blynk setting finish at here.
 ## Arduino code
-- Download the code from [HERE](blynk_DHT11.ino)
-- If your program is right, you check serial monitor will see this
-![image]()  
+- Download the code from [HERE](blynk_DHT11.ino)  
+- If your program is right, you check serial monitor will see this  
+![image](picture/blynk_success.png)  
 # Result
-![image](picture/biynk+dht11.png)
+![image](picture/biynk+dht11.png)  
 ## Powermeter
 https://www.peacefair.cn/product/772.html
 ## Reference
