@@ -1,12 +1,11 @@
 #define BLYNK_PRINT Serial
-#define BLYNK_TEMPLATE_ID "TMPL6bVwW9iX4"
-#define BLYNK_TEMPLATE_NAME "test"
-#include <ESP8266WiFi.h>
-#include <BlynkSimpleEsp8266.h>
+#define BLYNK_TEMPLATE_ID "TMPL6bVwW9iX4"//your template ID
+#define BLYNK_TEMPLATE_NAME "test"//your template name
+#include <ESP8266WiFi.h>//board manager ESP8266
+#include <BlynkSimpleEsp8266.h>//library blynk
 #include <SoftwareSerial.h> // Arduino IDE <1.6.6
-#include <BlynkSimpleEsp8266.h>
 
-#include <DHT.h> 
+#include <DHT.h> //library DHT sensor library
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
@@ -14,8 +13,8 @@
 char auth[] = "yJF5LkUoaLFb5jMEkic_yktkXMYZ13a1";
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "AD-LLAN";
-char pass[] = "louis9617";
+char ssid[] = "Classroom";
+char pass[] = "ntustclassroom";
  
 #define DHTPIN D4          // What digital pin we're connected to
 #define DHTTYPE DHT11     // DHT 11<p>DHT dht(DHTPIN, DHTTYPE);
