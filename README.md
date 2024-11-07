@@ -41,6 +41,7 @@ Here is the wiring diagram:
 ![image](picture/14.png)
 ![image](picture/15.png)  
 ##### Board setting
+- Download ESP8266 from Tools -> Board -> board manager
 ![image](picture/16.png) 
 ##### Port setting
 ### Flash / Speed / Port
