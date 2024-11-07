@@ -28,35 +28,38 @@ Here is the wiring diagram:
 
 # Adding D1 board
 ### Preferences
-![image](https://user-images.githubusercontent.com/90613715/136137227-869b415b-4267-47e0-82eb-20b4f56cd149.png)
-### • Create direction (folder)
+![image](https://user-images.githubusercontent.com/90613715/136137227-869b415b-4267-47e0-82eb-20b4f56cd149.png)  
 ### • Additional Boards Manager URLs:
-![Adding D1 board](https://user-images.githubusercontent.com/90613715/136137356-2b111d4f-9d0a-40d4-93f7-a4b5822519b5.png)
+![image](picture/13.png)  
 #### http://arduino.esp8266.com/stable/package_esp8266com_index.json
 ### Include Library
-#### ADD-libraries (given in class)
+#### ADD-libraries
 ![image](https://github.com/iiotntust/1131blynk/blob/01c3c5d45ded1c1025633532b3b8dc54eee54e90/picture/DHT_library.png)
 ![image](https://github.com/iiotntust/1131blynk/blob/b3d5cbfd3bf243e682d7199d318bef684ff77c4b/picture/blynk_lib.png)
-#### Blynk_Release_v0.4.4 (subject to revise)
 ##### Board Management
-##### Select WEMOS D1 D2 & Mini
-![image](https://user-images.githubusercontent.com/90613715/136137703-b16dc503-77f5-4ca5-9b64-8c1aa63df06a.png)
-##### Select version
-![image](https://user-images.githubusercontent.com/90613715/136137734-69b77d4d-990a-4e4e-aa4c-538c84cff0f5.png)
-##### Downloading
-![image](https://user-images.githubusercontent.com/90613715/136137757-3d42dad3-74df-4d64-8111-6f09dc399356.png)
+##### Select WEMOS D1 D2 & Mini 
+![image](picture/14.png)
+![image](picture/15.png)  
 ##### Board setting
-![image](https://user-images.githubusercontent.com/90613715/136137786-1b7dcb8d-c9e7-4dae-870f-c0717c141fb5.png)
+![image](picture/16.png) 
 ##### Port setting
 ### Flash / Speed / Port
-![image](https://user-images.githubusercontent.com/90613715/136137824-dea2a259-f6c4-4555-96f9-12e4deabbd01.png)
+- Follow the setting from Board setting only red block you need to change.
+![]
+>
+>
+
 #### Confirmation
-![Confirmation](https://user-images.githubusercontent.com/90613715/136138097-7c533699-a672-43c7-9111-8aed1d91c32d.png)
+![image](picture/17.png)  
+![]
+>
+>
+
 ## Blynk
 - Go to blynk website and sign up.
 ### Create template
 #### Add new template.
-![image]()  
+![image](picture/12.png)  
 - Enter the template's name.
 Hardware choose ESP8266 and connection type is WiFi.
 ![image](picture/9.png)  
@@ -72,6 +75,7 @@ Hardware choose ESP8266 and connection type is WiFi.
 
 Like this.
 ![image](picture/11.png)  
+- Try to do another one.
 ![image](picture/10.png)  
 #### Go to Web dashboard.
 - Drag two label to your dashboard.
