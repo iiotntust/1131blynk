@@ -102,6 +102,7 @@ Blynk setting finish at here.
 ![image](picture/blynk_success.png)  
 # Result
 ![image](picture/biynk+dht11.png)  
+- And your D1 board will blink per second, which means D1 is transmitting information to the WiFi.
 ## Powermeter
 https://www.peacefair.cn/product/772.html
 ## Reference
