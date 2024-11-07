@@ -19,7 +19,13 @@ https://github.com/dhrubasaha08/DHT11
 > - (how to install) https://forum.arduino.cc/t/how-to-install-ch340-driver-for-windows-11/1154087  
 
 Here is the wiring diagram:  
-![image](https://github.com/iiotntust/1131blynk/blob/98180465e9f3c2ae88036234b62245af93616a76/picture/D1_mini_blynk.png)
+![image](picture/D1_mini_blynk.png)
+> [!CAUTION]
+> 5V -> (+)  
+> G -> (-)  
+> D4 -> out  
+>  An incorrect wiring connection could result in the component being damaged by overheating.
+
 # Adding D1 board
 ### Preferences
 ![image](https://user-images.githubusercontent.com/90613715/136137227-869b415b-4267-47e0-82eb-20b4f56cd149.png)
