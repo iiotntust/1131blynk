@@ -34,8 +34,8 @@ Here is the wiring diagram:
 #### http://arduino.esp8266.com/stable/package_esp8266com_index.json
 ### Include Library
 #### ADD-libraries
-![image](https://github.com/iiotntust/1131blynk/blob/01c3c5d45ded1c1025633532b3b8dc54eee54e90/picture/DHT_library.png)
-![image](https://github.com/iiotntust/1131blynk/blob/b3d5cbfd3bf243e682d7199d318bef684ff77c4b/picture/blynk_lib.png)
+![image](picture/DHT_library.png)  
+![image](picture/blynk_lib.png)  
 ##### Board Management
 ##### Select WEMOS D1 D2 & Mini 
 ![image](picture/14.png)
