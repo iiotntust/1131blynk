@@ -14,8 +14,8 @@ https://github.com/dhrubasaha08/DHT11
 - Download Arduino: https://www.arduino.cc/en/software
 ![image](https://github.com/iiotntust/1131blynk/blob/f482b2e8d83cc8fce1db40308162bd033a11e1da/picture/arduino.png)
 > [!CAUTION]
-> Don't forget download CH340 driver
-> - (download) https://www.arduined.eu/ch340-windows-10-driver-download/
+> Don't forget to install CH340 driver
+> - (download CH340 driver) https://www.arduined.eu/ch340-windows-10-driver-download/
 > - (how to install) https://forum.arduino.cc/t/how-to-install-ch340-driver-for-windows-11/1154087  
 
 Here is the wiring diagram:  
