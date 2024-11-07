@@ -34,7 +34,7 @@ Here is the wiring diagram:
 #### http://arduino.esp8266.com/stable/package_esp8266com_index.json
 ### Include Library
 #### ADD-libraries
-![image](picture/DHT_library.png)  
+![image](picture/DHT_library.png)
 ![image](picture/blynk_lib.png)  
 ##### Board Management
 ##### Select WEMOS D1 D2 & Mini 
@@ -45,15 +45,13 @@ Here is the wiring diagram:
 ##### Port setting
 ### Flash / Speed / Port
 - Follow the setting from Board setting only red block you need to change.
-![]
->
->
+> [!NOTE]
+> Other settings are as same as default
 
 #### Confirmation
-![image](picture/17.png)  
-![]
->
->
+> [!CAUTION]
+> ![image](picture/17.png)  
+> Please double check those 5 lines code are correct, otherwise D1 even cannot link to your WiFi
 
 ## Blynk
 - Go to blynk website and sign up.
@@ -69,7 +67,7 @@ Hardware choose ESP8266 and connection type is WiFi.
 - Name can be HUMIDITY and TEMPERATURE, each name has it own PIN(for example is V5 and V6)
 - Type is interger.
 - Unit you can use percentage and degrees.
->[!NOTE]
+> [!NOTE]
 > Because humidity is expressed as a percentage.
 > So the range should be 0 to 100.
 
@@ -80,8 +78,8 @@ Like this.
 #### Go to Web dashboard.
 - Drag two label to your dashboard.
 ![image](picture/2.png)  
-- Click label's setting and change its name.
-![image](picture/6.png) 
+- Click label's setting and change its name.  
+![image](picture/6.png)  
 - Choose the datastream you created and save.
 ![image](picture/7.png)  
 #### Create device
