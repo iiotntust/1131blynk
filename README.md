@@ -79,7 +79,7 @@ Like this.
 ![image](picture/10.png)  
 #### Go to Web dashboard.
 - Drag two label to your dashboard.
-![image](picture/2.png)  
+
 - Click label's setting and change its name.
 ![image](picture/6.png) 
 - Choose the datastream you created and save.
