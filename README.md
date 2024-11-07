@@ -50,7 +50,7 @@ Here is the wiring diagram:
 - Go to blynk website and sign up.
 ### Create template
 #### Add new template.
-![image](picture/8.png)  
+![image]()  
 - Enter the template's name.
 Hardware choose ESP8266 and connection type is WiFi.
 ![image](picture/9.png)  
